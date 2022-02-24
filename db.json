@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Dentist Appointment",
+      "day": "June 1st at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Meeting at the Office",
+      "day": "April 11th at 1:30pm",
+      "reminder": false
+    },
+    {
+      "text": "Jump Rope",
+      "day": "June 1, 2022",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Do stuff",
+      "day": "NOW",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
