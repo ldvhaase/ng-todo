@@ -1,27 +1,13 @@
 # NgTodo
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.4.
+##This project was generated with created using the Angular framework
+##JSON Server is used as a REST API for quick development
 
-## Development server
+### To-Do list with add/remove feature, and reminder indicators
+![snippet1](https://user-images.githubusercontent.com/37157778/155442935-0f52877c-d8d5-415e-928f-76e81602251b.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### Collapsible form to add new task, button color and text changing with action
+![snippet2](https://user-images.githubusercontent.com/37157778/155442943-0ac33533-b0f7-4123-8477-d081671a5600.png)
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+### About page uses routing to display about page without reloading app entirely
+![snippet3](https://user-images.githubusercontent.com/37157778/155442954-f888744a-5f9d-4628-8bb1-0acc75ca9649.png)
