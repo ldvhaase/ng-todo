@@ -1,7 +1,7 @@
 # NgTodo
 
-##This project was generated with created using the Angular framework
-##JSON Server is used as a REST API for quick development
+## This project was generated with created using the Angular framework
+## JSON Server is used as a REST API for quick development
 
 ### To-Do list with add/remove feature, and reminder indicators
 ![snippet1](https://user-images.githubusercontent.com/37157778/155442935-0f52877c-d8d5-415e-928f-76e81602251b.png)
